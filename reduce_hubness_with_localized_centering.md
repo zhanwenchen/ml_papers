@@ -1,4 +1,4 @@
-## An interpretation of
+### An interpretation of
 ### Title: Localized Centering: Reducing Hubness in Large-Sample Data
 ### Authors: Kazuo Hara, Ikumi Suzuki, Masashi Shimbo, Kei Kobayashi, Kenji Fukumizu, Miloš Radovanović
 ### Conferene: AAAI-15
